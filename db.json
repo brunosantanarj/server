@@ -1,0 +1,15 @@
+{
+  parterships: [
+    { id: 1, socialName: "Aline Product Tech S.A", cnpj: "93.911.873/0001-37" },
+    { id: 2, socialName: "Balbino Pablo Company", cnpj: "81.778.015/0001-87" },
+    { id: 3, socialName: "Carlos Heitor Diniz C Inc", cnpj: "13.170.427/0001-66" },
+    { id: 4, socialName: "Paixão Business Co.", cnpj: "99.678.027/0001-88" },
+    { id: 5, socialName: "Tito Flavio Corporation", cnpj: "93.911.873/0001-37" },
+    { id: 6, socialName: "Pedro Goncalves Silva", cnpj: "93.911.873/0001-37" },
+    { id: 7, socialName: "Aline Product Tech S.A", cnpj: "93.911.873/0001-37" },
+    { id: 8, socialName: "Aline Product Tech S.A", cnpj: "93.911.873/0001-37" },
+    { id: 9, socialName: "Aline Product Tech S.A", cnpj: "93.911.873/0001-37" },
+    { id: 10, socialName: "Aline Product Tech S.A", cnpj: "93.911.873/0001-37" },
+    { id: 11, socialName: "Aline Product Tech S.A", cnpj: "93.911.873/0001-37" },
+  ]
+}
